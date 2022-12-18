@@ -1,0 +1,29 @@
+li         jinglong
+0.000636574074074074
+0
+li         jinglong
+0.000162037037037037
+46
+li         jinglong
+0.000104166666666667
+93
+li         jinglong
+0.000891203703703704
+140
+yan		kaidong
+lance		yan
+jack		feng
+bo		sheng
+wu		xiaoqing	
+liao		yubin
+wang		hanyong
+yan		kaidong
+lance		yan
+jack		feng
+bo		sheng
+wu		xiaoqing	
+liao		yubin
+wang		hanyong
+li         jinglong
+0.000925925925925926
+188

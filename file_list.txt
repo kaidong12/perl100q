@@ -1,0 +1,2 @@
+Tue Apr 17 11:01:07 2012 
+ dir /a D:\S_Perl\myplscripts

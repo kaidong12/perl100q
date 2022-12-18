@@ -1,0 +1,5 @@
+LinuxCBT	RedHat	Edition	595	75hours	Great
+LinuxCBT	Debian	Edition	395	45hours	Great
+LinuxCBT	Scripting	Edition	395	52hours	Great
+LinuxCBT	RRdHat	Edition	495	15hours	Average
+LinuxCBT	RBdHat	Edition	695	25hours	lousy

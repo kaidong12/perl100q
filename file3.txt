@@ -1,0 +1,25 @@
+2009-10-22  19:05    <DIR>          .
+2009-10-22  19:05    <DIR>          ..
+2009-10-21  17:03                96 ARGV_PARAMETER
+2009-10-21  17:42               332 ARGV_PARAMETER.pl
+2009-10-21  17:17               441 arrayfunction.pl
+2009-10-22  19:02                16 file1.txt
+2009-10-22  19:05                12 file2.txt
+2009-10-22  19:05                 0 file3.txt
+2009-10-22  18:56               577 file_rename1.pl
+2009-10-22  00:11               562 file_split1.pl
+2009-10-22  09:16               624 file_split2.pl
+2009-10-12  18:03             1,304 helloworld.pl
+2009-10-16  06:47               112 logfile.txt
+2009-10-16  08:51                 0 logfile_.txt
+2009-10-14  19:35             1,029 mysql_to_excel.pl
+2009-10-13  00:23               246 open_die.pl
+2009-10-22  08:12               218 products_data.txt
+2009-10-22  09:29                62 rename_data.txt
+2009-10-12  18:37               375 speed_perl.pl
+2009-10-12  10:06                39 test.pl
+2009-10-12  15:49            16,309 web1.pl
+2009-10-13  00:25               360 web2_split_jion.pl
+2009-10-21  19:12               707 ÎÄ¼þ²Ù×÷.pl
+              21 File(s)         23,421 bytes
+               2 Dir(s)     509,001,728 bytes free
