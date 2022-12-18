@@ -29,11 +29,10 @@ eval $op;
 die $@ if $@;
 rename($was, $_) unless $was eq $_;
 }
-ʹ��:
-������ű���rename.pl, ��������ִ��Ȩ��, Ȼ��ִ��
-./rename.pl 'tr /A-Z/a-z/' *
-# �ͻ�ѱ�Ŀ¼�е������ļ����Сд. ����ű�����������������ָ��ļ����Ĺ���.
-# ϣ�������س���ʱ, �ļ�������ɴ�д�������а���.
+
+# usage:
+# ./rename.pl 'tr /A-Z/a-z/' *
+
 if ($ENV{'REQUEST_METHOD'} eq 'POST') {
   read(STDIN, $buffer, $ENV{'CONTENT_LENGTH'});
 } else {

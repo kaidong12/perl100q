@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 
+# https://www.runoob.com/python3/python3-reg-expressions.html
 
 $data = "what do you think of Perl?";
 #     if ($data =~ /perl/i)

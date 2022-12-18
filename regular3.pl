@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 
+# https://www.runoob.com/python3/python3-reg-expressions.html
+
 # Grouping
 $var1 = "LinuxCBT 1 2 3 4";
 # \d = only extracts digits

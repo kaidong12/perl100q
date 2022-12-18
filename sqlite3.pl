@@ -1,5 +1,12 @@
 #!/usr/bin/perl
 
+# To use SQLite DBI Perl driver to connect to SQLite3. 
+# sudo apt-get install sqlite3 libdbd-sqlite3-perl
+# sudo yum install sqlite perl-DBD-SQLite
+
+# https://www.tutorialspoint.com/sqlite/sqlite_perl.htm
+
+
 use DBI;
 use strict;
 
